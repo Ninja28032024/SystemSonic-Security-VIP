@@ -1,7 +1,7 @@
 <div align="center">
   <img src="src/lib/img-menu/IMG-20260321-WA0120.jpg" width="600" alt="System Sonic Banner">
   
-  # ⚡ SYSTEM SONIC SECURITY VIP ⚡
+  # SYSTEM SONIC SECURITY VIP
   
   <p align="center">
     <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" alt="Version">
@@ -12,15 +12,15 @@
 
   ---
 
-  ### 🚀 O Melhor Bot de WhatsApp do Momento!
+  ### O Melhor Bot de WhatsApp do Momento!
   *Segurança, Diversão e Automação em um só lugar.*
 
 </div>
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 O **System Sonic** é um bot de WhatsApp multifuncional desenvolvido para oferecer a melhor experiência em gerenciamento de grupos, entretenimento e ferramentas de utilidade. Esta versão **VIP** conta com uma camada extra de segurança e ofuscação avançada para proteção do código-fonte.
 
-## 🛠️ Requisitos de Instalação
+## Requisitos de Instalação
 Para garantir que o bot funcione corretamente, siga os passos abaixo rigorosamente.
 
 ### 1. Atualize o Sistema
@@ -37,41 +37,41 @@ pkg install imagemagick -y
 ```
 
 ### 3. Instale os Módulos (Obrigatório)
-É extremamente importante usar o parâmetro `--legacy-peer-deps` para evitar conflitos de versões:
+É extremamente importante usar o parâmetro **--legacy-peer-deps** para evitar conflitos de versões:
 ```bash
 npm install --legacy-peer-deps
 ```
 
-## 🚀 Como Iniciar
-Após configurar as suas informações no arquivo `settings/config.json`, execute:
+## Como Iniciar
+Após configurar as suas informações no arquivo **settings/config.json**, execute:
 ```bash
 npm start
 ```
 
-## 🌟 Funcionalidades Principais
+## Funcionalidades Principais
 
 | Categoria | Descrição |
 | :--- | :--- |
-| **🛡️ Administração** | Antilink, Antifake, Ban, Promover/Rebaixar, Configuração de Grupos. |
-| **🎮 Brincadeiras** | Akinator, Jogo da Velha, Comandos de diversão. |
-| **🤖 IA** | Integração com Copilot e outras Inteligências Artificiais. |
-| **🛠️ Utilitários** | Download de vídeos/músicas, Stickers (Figurinhas), Pesquisas. |
-| **🔑 Dono** | Comandos exclusivos para controle total do bot e do sistema de aluguel. |
+| **Administração** | Antilink, Antifake, Ban, Promover/Rebaixar, Configuração de Grupos. |
+| **Brincadeiras** | Akinator, Jogo da Velha, Comandos de diversão. |
+| **Inteligência Artificial** | Integração com Copilot e outras Inteligências Artificiais. |
+| **Utilitários** | Download de vídeos/músicas, Stickers (Figurinhas), Pesquisas. |
+| **Dono** | Comandos exclusivos para controle total do bot e do sistema de aluguel. |
 
-## 🔒 Segurança & Ofuscação
+## Segurança e Ofuscação
 Este repositório contém a versão protegida do **System Sonic**. 
 - **Control Flow Flattening**: Dificulta a análise lógica.
 - **Dead Code Injection**: Adiciona código inútil para confundir ferramentas de desofuscação.
 - **String Encryption**: Todas as strings sensíveis estão em Base64/Hexadecimal.
 - **Identificadores Únicos**: Variáveis renomeadas para padrões hexadecimais.
 
-## 👤 Desenvolvedor
+## Desenvolvedor
 **Ninja Tech </>**
-> "Inovação e Segurança em primeiro lugar."
+> *"Inovação e Segurança em primeiro lugar."*
 
 ---
 
 <div align="center">
-  <p>Feito com ❤️ por Ninja Tech</p>
+  <p>Feito por Ninja Tech</p>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
