@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge" alt="Language">
     <img src="https://img.shields.io/badge/Platform-WhatsApp-green?style=for-the-badge" alt="Platform">
     <img src="https://img.shields.io/badge/Security-Obfuscated-red?style=for-the-badge" alt="Security">
+    <img src="https://img.shields.io/badge/Node.js-%3E%3D14.x-orange?style=for-the-badge" alt="Node.js">
   </p>
 
   ---
