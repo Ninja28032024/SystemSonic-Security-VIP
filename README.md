@@ -1,7 +1,7 @@
 <div align="center">
   <img src="src/lib/img-menu/IMG-20260321-WA0120.jpg" width="600" alt="System Sonic Banner">
   
-  <h1><p align="center"><a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=60&pause=1000&color=00D1FF&center=true&vCenter=true&width=1000&height=150&lines=SYSTEM+SONIC+SECURITY+FREE;By:+Ninja+TECH+Developer" alt="Typing SVG" /></a></p></h1>
+  <h1><p align="center"><a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=60&pause=1000&color=00D1FF&center=true&vCenter=true&width=1000&height=150&lines=SYSTEM+SONIC+SECURITY+FREE;By:+Ninja+Tech+Developer" alt="Typing SVG" /></a></p></h1>
   
   <p align="center">
     <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" alt="Version">
