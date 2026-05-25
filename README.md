@@ -1,7 +1,7 @@
 <div align="center">
   <img src="src/lib/img-menu/IMG-20260321-WA0120.jpg" width="600" alt="System Sonic Banner">
   
-  <h1><p align="center"><a href="#"><img src="https://capsule-render.vercel.app/render?type=rect&color=gradient&text=SYSTEM%20SONIC%20SECURITY%20FREE&fontSize=35&fontAlignY=50&animation=fadeIn" alt="Animated Title" /></a></p></h1>
+  <h1><p align="center"><a href="#"><img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=SYSTEM%20SONIC%20SECURITY%20FREE&fontSize=40&animation=fadeIn" alt="Animated Title" /></a></p></h1>
   
   <p align="center">
     <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" alt="Version">
