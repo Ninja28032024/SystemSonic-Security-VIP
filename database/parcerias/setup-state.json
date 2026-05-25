@@ -1,0 +1,12 @@
+{
+  "120363426079357145@g.us": {
+    "groupId": "120363426079357145@g.us",
+    "sender": "115775742451874@lid",
+    "step": "await_max_links",
+    "data": {
+      "partnerJid": "28287342506234@lid"
+    },
+    "createdAt": 1779736651341,
+    "expiresAt": 1779736951341
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "120363420297972235@g.us": {
+    "groupId": "120363420297972235@g.us",
+    "sender": "115775742451874@lid",
+    "step": "intro",
+    "data": {
+      "configuredBy": "115775742451874@lid"
+    },
+    "updatedAt": 1776285081755
+  },
+  "120363426079357145@g.us": {
+    "groupId": "120363426079357145@g.us",
+    "sender": "115775742451874@lid",
+    "step": "delete_question",
+    "data": {
+      "configuredBy": "115775742451874@lid"
+    },
+    "updatedAt": 1776905150293
+  }
+}
