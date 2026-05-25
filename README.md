@@ -18,7 +18,7 @@
 </div>
 
 ## Sobre o Projeto
-O **System Sonic** é um bot de WhatsApp multifuncional desenvolvido para oferecer a melhor experiência em gerenciamento de grupos, entretenimento e ferramentas de utilidade. Esta versão **VIP** conta com uma camada extra de segurança e ofuscação avançada para proteção do código-fonte.
+O **System Sonic** é um bot de WhatsApp multifuncional desenvolvido para oferecer a melhor experiência em gerenciamento de grupos, entretenimento e ferramentas de utilidade. Esta versão **FREE** oferece a você mais segurança, praticidade e muito mais nos grupos com entretenimento moderado.
 
 ## Requisitos de Instalação
 Para garantir que o bot funcione corretamente, siga os passos abaixo rigorosamente.
