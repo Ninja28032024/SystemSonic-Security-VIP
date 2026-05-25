@@ -43,7 +43,7 @@ npm install --legacy-peer-deps
 ```
 
 ## Como Iniciar
-Após configurar as suas informações no arquivo **settings/config.json**, execute:
+Para ativar o Bot, basta usar o comando **npm start** e configurar tudo pelo console.
 ```bash
 npm start
 ```
