@@ -1,7 +1,7 @@
 <div align="center">
   <img src="src/lib/img-menu/IMG-20260321-WA0120.jpg" width="600" alt="System Sonic Banner">
   
-  # SYSTEM SONIC SECURITY VIP
+  <h1><p align="center"><a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=SYSTEM+SONIC+SECURITY+FREE" alt="Typing SVG" /></a></p></h1>
   
   <p align="center">
     <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" alt="Version">
