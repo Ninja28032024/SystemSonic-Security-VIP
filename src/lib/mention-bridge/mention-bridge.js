@@ -1,1 +1,51 @@
-const _0x482f2f=_0x5af5;function _0x5af5(_0x362bfc,_0x402cf5){_0x362bfc=_0x362bfc-(0xced*-0x1+-0x1cf2+0x1*0x2afb);const _0x3c3779=_0x5027();let _0xb898b9=_0x3c3779[_0x362bfc];if(_0x5af5['\x4f\x54\x69\x63\x47\x4f']===undefined){var _0x4c77fe=function(_0x1179b9){const _0x248315='\x61\x62\x63\x64\x65\x66\x67\x68\x69\x6a\x6b\x6c\x6d\x6e\x6f\x70\x71\x72\x73\x74\x75\x76\x77\x78\x79\x7a\x41\x42\x43\x44\x45\x46\x47\x48\x49\x4a\x4b\x4c\x4d\x4e\x4f\x50\x51\x52\x53\x54\x55\x56\x57\x58\x59\x5a\x30\x31\x32\x33\x34\x35\x36\x37\x38\x39\x2b\x2f\x3d';let _0x1e537c='',_0x148fd6='';for(let _0x39a142=-0x50d+0x1716+-0x39*0x51,_0x49906a,_0x554fff,_0x38941c=0x6d*-0x55+-0x15d*0x7+0x2dbc;_0x554fff=_0x1179b9['\x63\x68\x61\x72\x41\x74'](_0x38941c++);~_0x554fff&&(_0x49906a=_0x39a142%(-0xd55*-0x1+-0x2*-0x565+-0x181b)?_0x49906a*(0x2bd+0x35*0x13+0x336*-0x2)+_0x554fff:_0x554fff,_0x39a142++%(-0x13*0xe9+0x2349+-0x11fa))?_0x1e537c+=String['\x66\x72\x6f\x6d\x43\x68\x61\x72\x43\x6f\x64\x65'](-0x16b2+0x9d*0x19+-0xd6*-0xa&_0x49906a>>(-(0x9b*-0x1+-0x1b29*0x1+0x942*0x3)*_0x39a142&0x21fa+-0x1*-0x2027+-0x421b)):0x8b0+-0x453+0x1*-0x45d){_0x554fff=_0x248315['\x69\x6e\x64\x65\x78\x4f\x66'](_0x554fff);}for(let _0x39f34d=0x1575+0xc*-0x197+-0x261,_0x3a5c52=_0x1e537c['\x6c\x65\x6e\x67\x74\x68'];_0x39f34d<_0x3a5c52;_0x39f34d++){_0x148fd6+='\x25'+('\x30\x30'+_0x1e537c['\x63\x68\x61\x72\x43\x6f\x64\x65\x41\x74'](_0x39f34d)['\x74\x6f\x53\x74\x72\x69\x6e\x67'](0x1076+0x2709+-0x376f))['\x73\x6c\x69\x63\x65'](-(0x33*-0xb3+-0x70a+0x2ab5));}return decodeURIComponent(_0x148fd6);};_0x5af5['\x73\x78\x76\x48\x41\x52']=_0x4c77fe,_0x5af5['\x48\x43\x74\x77\x70\x55']={},_0x5af5['\x4f\x54\x69\x63\x47\x4f']=!![];}const _0x3eec68=_0x3c3779[-0x1c1b*-0x1+0x1af5+-0x3710],_0x40a74e=_0x362bfc+_0x3eec68,_0x34207e=_0x5af5['\x48\x43\x74\x77\x70\x55'][_0x40a74e];return!_0x34207e?(_0xb898b9=_0x5af5['\x73\x78\x76\x48\x41\x52'](_0xb898b9),_0x5af5['\x48\x43\x74\x77\x70\x55'][_0x40a74e]=_0xb898b9):_0xb898b9=_0x34207e,_0xb898b9;}(function(_0x53b1ec,_0x5e29b2){const _0x2a7203={_0x429e4a:0x131,_0x2e4357:0x11d,_0x13b08b:0x120,_0x1ff7e9:0x123,_0x4ca0dc:0x11e,_0x278d1e:0x138,_0x289949:0x13c,_0x5e04d1:0x137,_0x4d7cde:0x12d},_0x1d7bb5=_0x5af5,_0x46b60f=_0x53b1ec();while(!![]){try{const _0x2ddb0d=-parseInt(_0x1d7bb5(_0x2a7203._0x429e4a))/(0x1d0+-0x2*0xa22+0x627*0x3)+parseInt(_0x1d7bb5(_0x2a7203._0x2e4357))/(0x1117+0x11ff+-0x2314)*(parseInt(_0x1d7bb5(_0x2a7203._0x13b08b))/(-0x23c2+0x749+0x1c7c))+parseInt(_0x1d7bb5(_0x2a7203._0x1ff7e9))/(-0x1214+0x8*0x373+-0x4c0*0x2)*(parseInt(_0x1d7bb5(_0x2a7203._0x4ca0dc))/(-0x2013+0x32*-0xa3+0x3fee))+parseInt(_0x1d7bb5(_0x2a7203._0x278d1e))/(0x260*-0x9+-0x5dd+0x7*0x3e5)*(-parseInt(_0x1d7bb5(_0x2a7203._0x289949))/(-0x7*-0x139+0x1c6d+-0x24f5))+-parseInt(_0x1d7bb5(_0x2a7203._0x5e04d1))/(0x95b+0x1903+0x5*-0x6de)+parseInt(_0x1d7bb5(_0x2a7203._0x4d7cde))/(-0x467+-0x2ce*0x6+0x551*0x4)+parseInt(_0x1d7bb5(0x134))/(0x5*0x3d7+-0x1f5c+-0x3*-0x411);if(_0x2ddb0d===_0x5e29b2)break;else _0x46b60f['push'](_0x46b60f['shift']());}catch(_0xebf85){_0x46b60f['push'](_0x46b60f['shift']());}}}(_0x5027,-0x80d77+-0x2*-0x2d6df+0x328a*0x28));const {generateWAMessageFromContent}=require(_0x482f2f(0x122)+_0x482f2f(0x126));function aplicarMentionBridge(_0x44c706){const _0x150e40={_0x549c1f:0x13f,_0x4eb0a7:0x124},_0x380631={_0x1665e0:0x133,_0x35e41d:0x12a,_0x1bed60:0x136,_0xf09609:0x12e,_0x3b81d4:0x132,_0x353c0c:0x12e,_0x4c1113:0x13b,_0x243ee0:0x12c,_0x49bc06:0x12f,_0x452ed3:0x13d,_0x46f71d:0x12b,_0x46339a:0x11f,_0x1b5c83:0x128,_0x2447fa:0x125,_0x2ded6c:0x130,_0x1b5e7b:0x121,_0x33eb3e:0x11c},_0x37b101=_0x482f2f,_0x988f={'\x73\x6c\x42\x43\x6d':function(_0x51fdfa,_0x5096a9){return _0x51fdfa>_0x5096a9;},'\x6f\x58\x4d\x71\x6e':function(_0x3e464d,_0x53afa0){return _0x3e464d>_0x53afa0;},'\x58\x4a\x62\x50\x57':function(_0x18153f,_0x177aa2,_0x362bfc,_0x402cf5){return _0x18153f(_0x177aa2,_0x362bfc,_0x402cf5);}},_0x2b2e76=_0x44c706[_0x37b101(_0x150e40._0x549c1f)+'\x65'][_0x37b101(_0x150e40._0x4eb0a7)](_0x44c706);return _0x44c706[_0x37b101(_0x150e40._0x549c1f)+'\x65']=async function _0x3c3779(_0xb898b9,_0x4c77fe,_0x3eec68={}){const _0x383f54=_0x37b101;if(Array[_0x383f54(_0x380631._0x1665e0)](_0x4c77fe?.['\x6d\x65\x6e\x74\x69\x6f\x6e\x73'])&&_0x988f['\x73\x6c\x42\x43\x6d'](_0x4c77fe['\x6d\x65\x6e\x74\x69\x6f\x6e\x73'][_0x383f54(_0x380631._0x35e41d)],-0x14e6+0xa69+-0x1*-0xa7d)&&Array[_0x383f54(_0x380631._0x1665e0)](_0x4c77fe?.[_0x383f54(_0x380631._0x1bed60)+_0x383f54(_0x380631._0xf09609)])&&_0x988f[_0x383f54(_0x380631._0x3b81d4)](_0x4c77fe[_0x383f54(0x136)+_0x383f54(_0x380631._0x353c0c)]['\x6c\x65\x6e\x67\x74\x68'],0x1d*-0x2f+-0x1*0x1445+0x1998)){const _0x40a74e=_0x4c77fe['\x74\x65\x78\x74']||'',_0x34207e=_0x4c77fe[_0x383f54(_0x380631._0x4c1113)]||'',_0x1179b9=_0x4c77fe['\x6d\x65\x6e\x74\x69\x6f\x6e\x73'],_0x248315=_0x4c77fe[_0x383f54(0x136)+_0x383f54(_0x380631._0xf09609)],_0x1e537c=_0x3eec68?.[_0x383f54(0x13e)]||undefined,_0x148fd6={};_0x148fd6['\x68\x61\x73\x4d\x65\x64\x69\x61\x41\x74'+_0x383f54(_0x380631._0x243ee0)]=![];const _0x39a142={};_0x39a142[_0x383f54(_0x380631._0x49bc06)]=_0x40a74e;const _0x49906a={};_0x49906a[_0x383f54(_0x380631._0x49bc06)]=_0x34207e;const _0x554fff={};_0x554fff['\x6d\x65\x6e\x74\x69\x6f\x6e\x65\x64\x4a'+'\x69\x64']=_0x1179b9;const _0x38941c={};_0x38941c[_0x383f54(_0x380631._0x452ed3)]=_0x248315;const _0x39f34d={};_0x39f34d[_0x383f54(_0x380631._0x46f71d)]=_0x148fd6,_0x39f34d[_0x383f54(0x129)]=_0x39a142,_0x39f34d['\x66\x6f\x6f\x74\x65\x72']=_0x49906a,_0x39f34d['\x63\x6f\x6e\x74\x65\x78\x74\x49\x6e\x66'+'\x6f']=_0x554fff,_0x39f34d['\x6e\x61\x74\x69\x76\x65\x46\x6c\x6f\x77'+_0x383f54(_0x380631._0x46339a)]=_0x38941c;const _0x3a5c52={};_0x3a5c52[_0x383f54(_0x380631._0x1bed60)+_0x383f54(0x139)]=_0x39f34d;const _0x3ca03d={};_0x3ca03d[_0x383f54(_0x380631._0x1b5c83)]=_0x3a5c52;const _0xe26faf={};_0xe26faf[_0x383f54(_0x380631._0x2447fa)+_0x383f54(0x127)]=_0x3ca03d;const _0x33defc={};_0x33defc['\x71\x75\x6f\x74\x65\x64']=_0x1e537c;const _0x56df2f=generateWAMessageFromContent(_0xb898b9,_0xe26faf,_0x33defc);return await _0x44c706[_0x383f54(_0x380631._0x2ded6c)+'\x67\x65'](_0xb898b9,_0x56df2f['\x6d\x65\x73\x73\x61\x67\x65'],{'\x6d\x65\x73\x73\x61\x67\x65\x49\x64':_0x56df2f[_0x383f54(_0x380631._0x1b5e7b)]['\x69\x64']});}return _0x988f[_0x383f54(_0x380631._0x33eb3e)](_0x2b2e76,_0xb898b9,_0x4c77fe,_0x3eec68);},_0x44c706;}const _0x4d051e={};function _0x5027(){const _0x3ba2c9=['\x6d\x74\x76\x74\x74\x78\x4c\x70\x73\x31\x4f','\x74\x77\x76\x5a\x43\x32\x66\x4e\x7a\x71','\x6e\x64\x47\x34\x6e\x30\x66\x51\x72\x66\x66\x51\x72\x47','\x41\x32\x76\x35','\x71\x68\x6e\x35\x43\x33\x72\x4c\x42\x78\x50\x4c\x43\x47','\x6d\x4a\x47\x59\x6d\x5a\x69\x57\x76\x75\x31\x65\x73\x77\x66\x58','\x79\x4d\x4c\x55\x7a\x61','\x44\x4d\x4c\x4c\x44\x30\x39\x55\x79\x32\x76\x6e\x7a\x71','\x42\x59\x39\x49\x79\x77\x4c\x53\x7a\x78\x4c\x5a','\x43\x33\x6e\x48\x7a\x32\x75','\x42\x77\x76\x5a\x43\x32\x66\x4e\x7a\x71','\x79\x4d\x39\x4b\x45\x71','\x42\x67\x76\x55\x7a\x33\x72\x4f','\x41\x67\x76\x48\x7a\x67\x76\x59','\x44\x67\x66\x4a\x41\x67\x31\x4c\x42\x4e\x71','\x6d\x5a\x61\x34\x6e\x5a\x75\x5a\x6d\x78\x62\x5a\x79\x78\x72\x34\x73\x61','\x7a\x75\x6a\x31\x44\x68\x72\x56\x42\x4e\x6d','\x44\x67\x76\x34\x44\x61','\x43\x4d\x76\x53\x79\x78\x4c\x6e\x7a\x78\x6e\x5a\x79\x71','\x6e\x4a\x47\x5a\x6e\x74\x75\x34\x44\x77\x58\x4e\x73\x65\x54\x52','\x42\x31\x48\x6e\x43\x77\x34','\x41\x78\x6e\x62\x43\x4e\x6a\x48\x45\x71','\x6d\x74\x65\x59\x6e\x5a\x43\x30\x6e\x5a\x62\x56\x71\x77\x6a\x56\x72\x33\x71','\x7a\x78\x48\x57\x42\x33\x6a\x30\x43\x57','\x41\x77\x35\x30\x7a\x78\x6a\x48\x79\x33\x72\x50\x44\x47','\x6e\x64\x61\x32\x6e\x74\x61\x32\x6e\x67\x54\x79\x71\x32\x44\x66\x72\x71','\x6d\x74\x6a\x56\x75\x75\x7a\x6f\x73\x75\x57','\x7a\x75\x31\x4c\x43\x33\x6e\x48\x7a\x32\x75','\x79\x78\x62\x53\x41\x77\x6e\x48\x43\x4b\x31\x4c\x42\x47','\x7a\x4d\x39\x56\x44\x67\x76\x59','\x6d\x74\x43\x34\x6e\x74\x6d\x30\x6d\x31\x50\x57\x71\x77\x31\x51\x77\x71','\x79\x4e\x76\x30\x44\x67\x39\x55\x43\x57','\x43\x78\x76\x56\x44\x67\x76\x4b','\x43\x32\x76\x55\x7a\x65\x31\x4c\x43\x33\x6e\x48\x7a\x57','\x77\x65\x50\x49\x75\x66\x43','\x6e\x64\x79\x34\x42\x4b\x7a\x74\x7a\x33\x44\x31'];_0x5027=function(){return _0x3ba2c9;};return _0x5027();}_0x4d051e[_0x482f2f(0x13a)+'\x74\x69\x6f\x6e\x42\x72\x69\x64\x67\x65']=aplicarMentionBridge,module[_0x482f2f(0x135)]=_0x4d051e;
+// CAMINHO: src/lib/mention-bridge/mention-bridge.js
+//
+// Intercepta sock.sendMessage quando há mentions + interactiveButtons juntos
+// e converte automaticamente para generateWAMessageFromContent + viewOnceMessage,
+// que é a única estrutura que renderiza menções clicáveis com botões neste Baileys.
+// Todos os outros arquivos continuam usando sock.sendMessage normalmente — sem mudanças.
+
+const { generateWAMessageFromContent } = require('@systemzero/baileys');
+
+function aplicarMentionBridge(sock) {
+    const sendMessageOriginal = sock.sendMessage.bind(sock);
+
+    sock.sendMessage = async function mentionBridge(jid, content, options = {}) {
+        // Só intercepta se tiver mentions E interactiveButtons ao mesmo tempo
+        if (
+            Array.isArray(content?.mentions) &&
+            content.mentions.length > 0 &&
+            Array.isArray(content?.interactiveButtons) &&
+            content.interactiveButtons.length > 0
+        ) {
+            const texto   = content.text   || '';
+            const footer  = content.footer || '';
+            const mencoes = content.mentions;
+            const botoes  = content.interactiveButtons;
+            const quoted  = options?.quoted || undefined;
+
+            const msg = generateWAMessageFromContent(jid, {
+                viewOnceMessage: {
+                    message: {
+                        interactiveMessage: {
+                            header: { hasMediaAttachment: false },
+                            body:   { text: texto },
+                            footer: { text: footer },
+                            contextInfo: { mentionedJid: mencoes },
+                            nativeFlowMessage: { buttons: botoes }
+                        }
+                    }
+                }
+            }, { quoted });
+
+            return await sock.relayMessage(jid, msg.message, { messageId: msg.key.id });
+        }
+
+        // Qualquer outra chamada passa direto sem alteração
+        return sendMessageOriginal(jid, content, options);
+    };
+
+    return sock;
+}
+
+module.exports = { aplicarMentionBridge };
