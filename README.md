@@ -4,7 +4,7 @@
   <h1><p align="center"><a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=60&pause=1000&color=00D1FF&center=true&vCenter=true&width=1000&height=150&lines=SYSTEM+SONIC+SECURITY+FREE;By:+TheNinjaTechDeveloper" alt="Typing SVG" /></a></p></h1>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" alt="Version">
+    <img src="https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge" alt="Version">
     <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge" alt="Language">
     <img src="https://img.shields.io/badge/Platform-WhatsApp-green?style=for-the-badge" alt="Platform">
     <img src="https://img.shields.io/badge/Security-Obfuscated-red?style=for-the-badge" alt="Security">
