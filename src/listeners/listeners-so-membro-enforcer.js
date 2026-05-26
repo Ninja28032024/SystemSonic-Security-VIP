@@ -4,7 +4,7 @@
 // Bloqueia: quem não é membro do grupo.
 
 const path = require('path');
-const { isOwner, isSameUser } = require(path.join(__dirname, '..', 'utils.js'));
+const { isOwner, isSameUser, isUserAdmin } = require(path.join(__dirname, '..', 'utils.js'));
 const { isSoMembroAtivo } = require(path.join(__dirname, '..', 'lib', 'so-membro-state', 'so-membro-state.js'));
 
 function extrairComando(m, prefixo) {
@@ -14,6 +14,21 @@ function extrairComando(m, prefixo) {
         '';
     if (!texto.startsWith(prefixo)) return null;
     return texto.slice(prefixo.length).trim().split(/\s+/)[0].toLowerCase();
+}
+
+async function reagirBloqueio(sock, m) {
+    const emojis = ['💬', '❌'];
+    const inicio = Date.now();
+    let i = 0;
+    while (Date.now() - inicio < 30000) {
+        try {
+            await sock.sendMessage(m.key.remoteJid, {
+                react: { text: emojis[i % 2], key: m.key }
+            });
+        } catch (_) {}
+        await new Promise(r => setTimeout(r, 300));
+        i++;
+    }
 }
 
 async function listenerSoMembroEnforcer(sock, m, from, sender, options = {}) {
@@ -37,23 +52,24 @@ async function listenerSoMembroEnforcer(sock, m, from, sender, options = {}) {
         const senderIsDono = await isOwner(sender, config.ownerNumber, sock);
         if (senderIsDono) return false;
 
-        // Verifica se o sender é membro do grupo
+        // Verifica se é admin — se for, bloqueia
         const groupMeta = await sock.groupMetadata(from);
+        const senderIsAdmin = await isUserAdmin(sender, groupMeta, sock);
+        if (senderIsAdmin) {
+            reagirBloqueio(sock, m); // sem await — roda em background
+            return true;
+        }
+
+        // Verifica se ao menos é membro do grupo
         let ehMembro = false;
         for (const p of groupMeta.participants) {
-            if (await isSameUser(p.id, sender, sock)) {
-                ehMembro = true;
-                break;
-            }
+            if (await isSameUser(p.id, sender, sock)) { ehMembro = true; break; }
         }
 
         if (ehMembro) return false;
 
         // Não é membro — bloqueia
-        await sock.sendMessage(from, {
-            text: '*ACESSO RESTRITO⚔️*\nOs comandos do bot estão restritos apenas para membros do grupo.'
-        }, { quoted: m });
-
+        reagirBloqueio(sock, m); // sem await — roda em background
         return true;
 
     } catch (error) {
