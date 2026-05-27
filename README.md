@@ -73,6 +73,6 @@ Este repositório contém a versão protegida do **System Sonic**.
 ---
 
 <div align="center">
-  <p>Feito por TheNinjaTechDeveloper</p>
+  <p>Feito por NinjaTechDeveloper</p>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
